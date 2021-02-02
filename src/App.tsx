@@ -10,6 +10,7 @@ import Footer from "./footer/Footer";
 function App() {
   return (
     <div>
+      adasdas
       <Header/>
       <Main/>
       <Skills/>
