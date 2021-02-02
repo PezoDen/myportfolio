@@ -1,0 +1,13 @@
+.header {
+    height: 80px;
+    background-color: #09de95;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    /*width: ;*/
+}
+/*.headerContainer{*/
+/*    flex-direction: column;*/
+/*    justify-content: flex-start;*/
+/*    border: 1px solid red;*/
+/*}*/
