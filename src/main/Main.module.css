@@ -3,6 +3,9 @@
     background-color: rgba(255, 87, 87, 0.66);
 }
 .mainContainer {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
