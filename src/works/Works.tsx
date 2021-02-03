@@ -13,7 +13,7 @@ function Works() {
         <div className={style.works}>
           <Work title={"PROJECT"}
                  description={"\n" +
-                 "\Lorem ipsum dolor sit amet, consectetur adipisicing elit"}/>
+                 "Lorem ipsum dolor sit amet, consectetur adipisicing elit"}/>
           <Work title={"PROJECT"}
                  description={"\n" +
                  "adipisicing elit, sed do eiusmod tempor incididunt ut labore"}/>
