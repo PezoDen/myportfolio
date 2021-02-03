@@ -5,7 +5,7 @@ import styleContainer from "../common/styles/Container.module.css"
 function Main() {
   return (
     <div className={style.mainBlock}>
-      <div className={`{styleContainer.container} {style.mainContainer}`}>
+      <div className={`${styleContainer.container} ${style.mainContainer}`}>
         <div className={style.text}>
           <span>Hi There</span>
           <h1>I am Jeffrey Aaron</h1>
